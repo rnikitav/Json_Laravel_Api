@@ -6,7 +6,7 @@
 
 - `composer install`
 - customize the `.env` file
-- `php artisan key: generate`
+- `php artisan key:generate`
 _____________
 ### Database setup
 1) create a database locally or on the server and specify it in the .env file(removed from .gitignore)
